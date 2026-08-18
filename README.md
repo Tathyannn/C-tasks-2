@@ -19,7 +19,6 @@ int main() {
 
     cout << "y=" << y << endl;
     system("pause");
-    return 0;
 }
 
 
@@ -39,7 +38,7 @@ int main() {
 
     cout << "z=" << z << endl;
     system("pause");
-    return 0;
+
 }
 
 
@@ -65,7 +64,7 @@ int main() {
 
     cout << "s=" << s / y << endl;
     system("pause");
-    return 0;
+
 }
 
 
@@ -83,5 +82,5 @@ int main() {
 
     cout << "x=" << x << endl;
     system("pause");
-    return 0;
+
 }
